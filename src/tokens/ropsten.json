@@ -8,11 +8,11 @@
     "logoURI": "https://raw.githubusercontent.com/nandanurseptama/ares-swap-asset/master/loto.jpg"
   },
   {
-    "name": "Wrapped Avax",
+    "name": "Wrapped Metis",
     "chainId": 43113,
-    "symbol": "WAVAX",
+    "symbol": "WMETIS",
     "decimals": 18,
     "address": "0xc676516F9fFD816a13D4a763b13BC0385A3d6567",
-    "logoURI": "https://raw.githubusercontent.com/nandanurseptama/ares-swap-asset/master/loto.jpg"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9640.png"
   }
 ]
